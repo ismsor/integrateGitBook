@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Setup](setup.md)
+* [設定](setup.md)
 
