@@ -76,5 +76,17 @@ book.epub
 book.mobi
 ```
 
+```
+// in integrateGitBook directory
+$ git add .
+$ git commit -m="init version"
+```
+
+然後，開啟 GitBook editor , Open/ , 選 integrateGitBook 目錄。
+
+
+
+
+
 
 
