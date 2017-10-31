@@ -1,8 +1,12 @@
-# Setup
+# GitBook環境設定 
+
+## 安裝 GitBook Cli
 
 ```bash
 $ npm install gitbook-cli -g
 ```
+
+## 初始化 gitbook 環境
 
 ```bash
 // Create a book
@@ -15,7 +19,7 @@ $ gitbook serve
 $ gitbook build
 ```
 
-整合進其它專案內
+## 整合進其它程式專案內
 
 ex : git@github.com:ismsor/integrateGitBook.git
 
@@ -83,10 +87,4 @@ $ git commit -m="init version"
 ```
 
 然後，開啟 GitBook editor , Open/ , 選 integrateGitBook 目錄。
-
-
-
-
-
-
 
